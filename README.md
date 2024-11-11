@@ -10,6 +10,7 @@ O que este projeto faz?
 
 Este projeto faz "realiza cálculos simples", "imprime mensagens personalizadas", como as coisas funcionam na prática.
 
+Obs: Alguns Codigo pode ta com erro de escrita por causa do bug do GitHub.
 Pré-requisitos
 
 Para rodar este projeto, você precisa:
@@ -19,3 +20,5 @@ Para verificar se o Ruby está instalado, abra o terminal e digite:
 
 ```bash
 ruby -v
+
+
