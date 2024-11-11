@@ -1,0 +1,11 @@
+lista = []
+
+lista.push("Luiz", "EU") # 0 e 1
+lista << "Maria"
+
+
+lista.insert(0 , "Fulano")
+lista.insert(3 , "Siclano")
+#lista.delete("Fulano")
+listar_organizada = lista.sort
+puts listar_organizada.last
